@@ -1,0 +1,16 @@
+{
+  "name": "github-ci-npm-publish",
+  "version": "1.0.0",
+  "description": "a package to test github ci npm publish workflow",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mcnaveen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcnaveen/github-ci-npm-publish.git"
+  }
+}
