@@ -1,5 +1,6 @@
 {
   "name": "github-ci-npm-publish-repo",
+  "version": "1.0.0",
   "private": true,
   "description": "Monorepo for github-ci-npm-publish; the publishable package is in packages/x",
   "author": "mcnaveen",

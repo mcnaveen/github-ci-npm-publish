@@ -1,6 +1,6 @@
 {
   "name": "github-ci-npm-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to test GitHub CI npm publish workflow",
   "main": "index.js",
   "files": [
